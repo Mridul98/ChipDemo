@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChipDemo</string>
+    <string-array name="contacts">
+        <item>Mridul</item>
+        <item>Moulee</item>
+        <item>Mukul</item>
+        <item>Mili</item>
+        <item>Rakib</item>
+
+
+    </string-array>
+    <string name="contactName">
+        Enter contact name
+    </string>
+
+
+</resources>
